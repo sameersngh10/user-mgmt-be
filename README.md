@@ -19,13 +19,16 @@ This project is a Node.js backend application built using the Express framework 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-##usage
+## Usage
+
   It is a simple Node.js backend application with Express for handling HTTP requests and MySQL2 for database interaction,
   
- ##dependencies
+## Dependencies
+
   run npm install to install the dependencies
 
-##Configuration
+## Configuration
+
  Setup your database configuration in index.js as it doesn't have a separate env file
    DB_HOST=localhost
   DB_USER=root
